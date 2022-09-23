@@ -1,11 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from '.././header/header.jxs';
-
-import Header from 'components/header/header.jxs';
-import Content from 'components/content/content_part.jsx';
-
-
+import Total from '../Total/Total';
+import Content from '../Content/Content_part';
+import Header from 'components/Header/Header';
 
 
 
