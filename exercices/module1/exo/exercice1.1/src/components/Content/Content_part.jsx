@@ -1,6 +1,7 @@
 import Part from '../Part/Part';
 
 const Content = (props) => {
+  console.log(props);
     return (
       <div>
         <Part part = {props.part1} exercice = {props.exercices1} />

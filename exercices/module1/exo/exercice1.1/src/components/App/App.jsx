@@ -16,6 +16,7 @@ const App = () => {
   const part3 = 'State of a component'
   const exercices3 = 14
 
+  console.log(course);
   return (
     <div>
       <Header course={course} />
